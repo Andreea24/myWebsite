@@ -12,7 +12,7 @@ a {
 	  top:50%;
 	  left:50%;
 	  margin:35px 135px;
-  	display: -webkit-box;
+  	  display: -webkit-box;
 	  display: -moz-box;
 	  display: -ms-flexbox;
 	  display: -moz-flex;
@@ -40,17 +40,17 @@ a {
 	text-align: center;
 }
 .header{
-	   background-color: #444466; 
+     background-color: #444466; 
      border-top-left-radius:20px;
      border-top-right-radius:20px;
 }
 .header img{
       float:left; 
-			height:125px; width:130px; 
-			padding:50px 15px 20px 50px;
+      height:125px; width:130px; 
+      padding:50px 15px 20px 50px;
 		   }
 .header h1{	
-      display: inline-block;
+                       display: inline-block;
 			font-size:3em;
 			color:white;
 			font-style:italic; 
